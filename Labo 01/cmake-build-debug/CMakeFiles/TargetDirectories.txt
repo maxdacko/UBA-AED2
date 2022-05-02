@@ -1,0 +1,6 @@
+C:/Users/Max Dacko/OneDrive/Escritorio/1er Cuatri 2022/Ejercicios Labo/Labo 01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Max Dacko/OneDrive/Escritorio/1er Cuatri 2022/Ejercicios Labo/Labo 01/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+C:/Users/Max Dacko/OneDrive/Escritorio/1er Cuatri 2022/Ejercicios Labo/Labo 01/cmake-build-debug/CMakeFiles/tests_algobot.dir
+C:/Users/Max Dacko/OneDrive/Escritorio/1er Cuatri 2022/Ejercicios Labo/Labo 01/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/Max Dacko/OneDrive/Escritorio/1er Cuatri 2022/Ejercicios Labo/Labo 01/cmake-build-debug/CMakeFiles/gtest_main.dir
+C:/Users/Max Dacko/OneDrive/Escritorio/1er Cuatri 2022/Ejercicios Labo/Labo 01/cmake-build-debug/CMakeFiles/edit_cache.dir
